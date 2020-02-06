@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login('your token');
+client.login('gCc3S2tZ4QaPB2oWPAJExG-NU6ktH_FjIVEPTEEzgaAmXyhQ00Y_FUhhTsLdFjuMdmiy');
 
 var request = require('request');
 var mcCommand = '/minecraft'; // Command for triggering
